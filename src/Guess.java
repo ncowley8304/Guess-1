@@ -56,7 +56,7 @@ public class Guess {
            int numguess = 0;
            boolean win = false;
 
-           while (win == false) {
+           while (!win) {
                System.out.println("Your guess?");
                guess = console.nextInt();
                numguess++;
