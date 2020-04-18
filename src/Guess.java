@@ -1,5 +1,5 @@
 /*
-Mariam Khatib
+Mariam Khatib //The weeb!
 Cis 140
 lab 4: Guessing
 
